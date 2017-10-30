@@ -1,0 +1,1 @@
+This repo contains the configurations and the stats that were captured during the performance testing of Kafka with OpenSSL. The whole experimentation is explained in the blog at https://jaitechwriteups.blogspot.com/2017/10/kafka-with-openssl.html
